@@ -4,14 +4,14 @@
 
 </div>
 
-I'm a passionate beginner developer with over a year of experience in PHP and web development. I'm currently writing my own PHP framework, exploring backend development, and diving into new technologies. My experience includes working with CodeIgniter, Laravel, and now learning Node.js and Express.js. Here’s a bit more about my journey and skills:
+I'm a passionate beginner developer with experience in PHP and web development. I'm currently developing my own PHP framework, exploring backend development, and diving into new technologies. My experience includes working with CodeIgniter, Laravel, and now learning Node.js and Express.js. Here’s a bit more about my journey and skills:
 
 ## ⚡ About Me
 
 - 💻 Passionate about backend development and building frameworks.
 - 🔍 Always curious to explore new technologies.
 - 👨‍💻 Familiar with Git for version control and Composer for package management.
-- 🌐 Aiming to strengthen my foundation in backend web development before exploring software development.
+- 🌐 Aiming to strengthen my foundation in backend web development.
 
 ## 🔧 Technologies & Tools
 
@@ -31,6 +31,6 @@ I'm a passionate beginner developer with over a year of experience in PHP and we
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,jquery,php,laravel,git)](https://skillicons.dev)
 
 </div>
