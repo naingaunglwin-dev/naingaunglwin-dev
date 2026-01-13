@@ -22,6 +22,6 @@ I'm a passionate developer with experience in PHP and web development. I'm curre
 
 ## My Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,js,nodejs,expressjs,php,laravel,codeigniter,composer,python,git&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,php,laravel,codeigniter&theme=dark)
 
 </div>
